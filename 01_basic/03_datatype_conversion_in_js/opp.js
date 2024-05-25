@@ -1,5 +1,5 @@
 //datatype conversion in javascript
-
+/*
 let score="33";  // "33ab"
 console.log(typeof score);
 
@@ -30,3 +30,11 @@ console.log(undefineStore);
 let undefinedInNumber=Number(undefineStore);
 console.log(typeof undefinedInNumber);
 console.log(undefinedInNumber);
+
+let num=50;
+
+let numInString=String(num);
+console.log(typeof numInString);
+console.log(numInString);
+
+*/
