@@ -10,4 +10,4 @@
 
 ( (name)=> {
     console.log(`${name}, Arrow Function will also be executed.`);
-})("Aimen")
+})("Ali")
